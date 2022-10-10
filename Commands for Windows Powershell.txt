@@ -42,3 +42,15 @@ Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
 -a----       10/11/2022  12:47 PM            679 Commands for Windows Powershell.txt
 ------------------------------------------------------------------------------------
+
+
+4.	cd - to change directory
+
+------------------------------------------------------------------------------------
+PS C:\Users\MARISELVAM\Windows-powershell> cd C:\Users\MARISELVAM\
+PS C:\Users\MARISELVAM>
+
+------------------------------------------------------------------------------------
+
+5.	
+  
