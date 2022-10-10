@@ -1,18 +1,20 @@
-WINDOWS POWERSHELL – COMMANDS  
+WINDOWS POWERSHELL – COMMANDS
+  
 1.	Pwd  –  to know the Present Working Directory
 
+----------------------------------------------------------------------------------
 PS C:\Users\MARISELVAM> pwd
 
 Path               
 ----               
 C:\Users\MARISELVAM
+----------------------------------------------------------------------------------
 
 
-
-PS C:\Users\MARISELVAM> 
 
 2.	$psversiontable  -  to know the version
 
+----------------------------------------------------------------------------------
 PS C:\> $psversiontable
 
 Name                           Value
@@ -24,5 +26,19 @@ CLRVersion                     4.0.30319.42000
 BuildVersion                   10.0.10240.16384
 PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
 PSRemotingProtocolVersion      2.3
+-----------------------------------------------------------------------------------
 
 
+3.	ls - to know current folder files list
+
+-----------------------------------------------------------------------------------
+PS C:\Users\MARISELVAM\Windows-powershell> ls
+
+
+    Directory: C:\Users\MARISELVAM\Windows-powershell
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----       10/11/2022  12:47 PM            679 Commands for Windows Powershell.txt
+------------------------------------------------------------------------------------
